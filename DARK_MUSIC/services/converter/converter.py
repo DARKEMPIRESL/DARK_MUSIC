@@ -1,7 +1,7 @@
 import asyncio
 from os import path
 
-from VCPlayBot.helpers.errors import FFmpegReturnCodeError
+from DARK_MUSIC.helpers.errors import FFmpegReturnCodeError
 
 
 async def convert(file_path: str) -> str:
