@@ -3,8 +3,8 @@ from os import path
 
 from youtube_dl import YoutubeDL
 
-from VCPlayBot.config import DURATION_LIMIT
-from VCPlayBot.helpers.errors import DurationLimitError
+from DARK_MUSIC.config import DURATION_LIMIT
+from DARK_MUSIC.helpers.errors import DurationLimitError
 
 ydl_opts = {
     "format": "bestaudio/best",
