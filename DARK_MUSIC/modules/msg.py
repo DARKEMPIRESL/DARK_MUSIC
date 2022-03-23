@@ -92,7 +92,7 @@ f"""
 - /musicplayer [on/off]: Enable/Disable Music player
 - /admincache: Updates admin info of your group. Try if bot isn't recognize admin
 - /userbotjoin: Invite @{ASSISTANT_NAME} Userbot to your chat
-Join @Girls_And_Boys_Chatting
+Join @trtechguide
 """,
 f"""
 **=>> Song Download 🎸**
@@ -116,6 +116,6 @@ f"""
  - /broadcast <reply to message> - globally brodcast replied message to all chats
  - /pmpermit [on/off] - enable/disable pmpermit message
 *Sudo Users can execute any command in any groups
-Join @Girls_And_Boys_Chatting
+Join @trtechguide
 """
       ]
