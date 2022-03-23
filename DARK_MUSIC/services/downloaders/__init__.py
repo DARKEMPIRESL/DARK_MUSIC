@@ -1,3 +1,3 @@
-from VCPlayBot.services.downloaders import youtube
+from DARK_MUSIC.services.downloaders import youtube
 
 __all__ = ["youtube"]
