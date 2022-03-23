@@ -2,8 +2,8 @@ from typing import Dict
 
 from pytgcalls import GroupCallFactory
 
-from VCPlayBot.services.callsmusic import client
-from VCPlayBot.services.queues import queues
+from DARK_MUSIC.services.callsmusic import client
+from DARK_MUSIC.services.queues import queues
 
 
 instances: Dict[int, GroupCallFactory] = {}
