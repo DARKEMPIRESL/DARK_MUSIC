@@ -1,11 +1,11 @@
 import requests
 from pyrogram import Client as Bot
 
-from VCPlayBot.config import API_HASH
-from VCPlayBot.config import API_ID
-from VCPlayBot.config import BG_IMAGE
-from VCPlayBot.config import BOT_TOKEN
-from VCPlayBot.services.callsmusic import run
+from DARK_MUSIC.config import API_HASH
+from DARK_MUSIC.config import API_ID
+from DARK_MUSIC.config import BG_IMAGE
+from DARK_MUSIC.config import BOT_TOKEN
+from DARK_MUSIC.services.callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")
