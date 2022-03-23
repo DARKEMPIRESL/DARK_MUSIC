@@ -1,11 +1,11 @@
 import os
-from VCPlayBot.config import SOURCE_CODE
-from VCPlayBot.config import ASSISTANT_NAME
-from VCPlayBot.config import PROJECT_NAME
-from VCPlayBot.config import SUPPORT_GROUP
-from VCPlayBot.config import UPDATES_CHANNEL
+from DARK_MUSIC.config import SOURCE_CODE
+from DARK_MUSIC.config import ASSISTANT_NAME
+from DARK_MUSIC.config import PROJECT_NAME
+from DARK_MUSIC.config import SUPPORT_GROUP
+from DARK_MUSIC.config import UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n Join @Girls_And_Boys_Chatting"
+      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n Join @trtechguide"
       HELP_MSG = [
         ".",
 f"""
@@ -15,7 +15,7 @@ f"""
 
 ⚪️ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions**
 
-Join @Girls_And_Boys_Chatting
+Join @trtechguide
 """,
 
 f"""
@@ -31,7 +31,7 @@ f"""
 2) Send /userbotjoinchannel in linked group
 3) Now send commands in linked group
 
-Join @Girls_And_Boys_Chatting
+Join @trtechguide
 """,
 f"""
 **Commands**
@@ -55,7 +55,7 @@ f"""
 - /playlist: Shows playlist
 
 *Player cmd and all other cmds except /play, /current  and /playlist  are only for admins of the group.
-Join @Girls_And_Boys_Chatting
+Join @trtechguide
 """,
 
 f"""
@@ -106,7 +106,7 @@ f"""
 
 - /search [song name]: Search youtube for songs
 - /lyrics [song name]: Get song lyrics
-Join @Girls_And_Boys_Chatting
+Join @trtechguide
 """,
 
 f"""
