@@ -4,6 +4,6 @@ from os import mkdir
 if 'raw_files' not in listdir():
     mkdir('raw_files')
 
-from VCPlayBot.services.converter.converter import convert
+from DARK_MUSIC.services.converter.converter import convert
 
 __all__ = ["convert"]
