@@ -1,4 +1,7 @@
 # DARK_MUSIC
+
+![darklogo](https://user-images.githubusercontent.com/95665347/159616549-8d27a5dd-f226-4612-a0db-63cbbdba1f58.gif)
+
 # How To Host
 The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DARKEMPIRESLBOTS/DARK_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
